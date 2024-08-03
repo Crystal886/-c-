@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asuka\\source\\repos\\tset_8_3_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2474BBF4-2BB2-4CB8-8CF7-2168E19BBA95}|tset_8_3_2024.vcxproj|C:\\Users\\Asuka\\source\\repos\\tset_8_3_2024\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2474BBF4-2BB2-4CB8-8CF7-2168E19BBA95}|tset_8_3_2024.vcxproj|solutionrelative:add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2474BBF4-2BB2-4CB8-8CF7-2168E19BBA95}|tset_8_3_2024.vcxproj|C:\\Users\\Asuka\\source\\repos\\tset_8_3_2024\\test_8_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2474BBF4-2BB2-4CB8-8CF7-2168E19BBA95}|tset_8_3_2024.vcxproj|solutionrelative:test_8_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "add.c",
+              "DocumentMoniker": "C:\\Users\\Asuka\\source\\repos\\tset_8_3_2024\\add.c",
+              "RelativeDocumentMoniker": "add.c",
+              "ToolTip": "C:\\Users\\Asuka\\source\\repos\\tset_8_3_2024\\add.c",
+              "RelativeToolTip": "add.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-03T13:56:24.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_8_3.c",
+              "DocumentMoniker": "C:\\Users\\Asuka\\source\\repos\\tset_8_3_2024\\test_8_3.c",
+              "RelativeDocumentMoniker": "test_8_3.c",
+              "ToolTip": "C:\\Users\\Asuka\\source\\repos\\tset_8_3_2024\\test_8_3.c",
+              "RelativeToolTip": "test_8_3.c",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-03T01:55:40.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
